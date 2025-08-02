@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-Hi everyone, I'm dat09. A Frontend Developer from VietNam.
+Hi everyone, I'm dat09. A BE Developer from VietNam.
   </samp>
   <br/>
   <br/>
